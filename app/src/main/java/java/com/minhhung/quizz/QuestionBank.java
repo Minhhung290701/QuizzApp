@@ -3,6 +3,7 @@ package java.com.minhhung.quizz;
 import java.util.ArrayList;
 import java.util.List;
 
+//Tạo ngân hàng câu hỏi và trả lời.
 public class QuestionBank {
 
     private static List<QuestionsList> Animal(){

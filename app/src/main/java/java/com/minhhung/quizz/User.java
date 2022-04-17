@@ -1,5 +1,6 @@
 package java.com.minhhung.quizz;
 
+//Tạo class User để lưu vào db
 public class User {
     public String fullName , age ,email ;
     public User(){
